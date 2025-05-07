@@ -1,3 +1,7 @@
+# KIAN: IM RETIRING THIS METHOD BECAUSE UNIFI HAS FIRST CLASS CLOUDFLARE DDNS SUPPORT NOW
+
+---
+
 # Cloudflare DDNS for UniFi OS
 
 A Cloudflare Worker script that provides a UniFi-compatible DDNS API to dynamically update the IP address of a DNS A record.
